@@ -21,10 +21,6 @@ A full-stack learning platform where **admins** can manage courses and **users**
 - **Payment Gateway**: Stripe
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
-## 🖥️ Screenshots
-
-_(Add screenshots here if available)_
-
 ## 🔧 Installation
 
 ### Backend Setup
